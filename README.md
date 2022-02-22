@@ -1,4 +1,5 @@
 ## Oiii me chamo Frank Jhonson, Sou criador de Jogos Sites apps, Amo a tecnologia!
+# Amo 🎸Rock E 🥃Programaçao🪐
 <div align="center">
   <a href="https://github.com/frankprogramador">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frankjhonson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
