@@ -1,5 +1,5 @@
 ## Oiii me chamo Frank Jhonson, Sou criador de Jogos Sites apps, Amo a tecnologia!❤
-# Amo 🎸Rock E 🥃Programaçao Music Anos 80's🪐
+# Amo 🎸Rock 🥃Programaçao Music Anos 80's E tecnologia!🪐
 <p align="center">  
 Bem vindo ao meu perfil ✌  
   
