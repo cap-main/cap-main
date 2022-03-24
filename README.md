@@ -128,7 +128,7 @@
  <a><img height="25" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Notion" style="vertical-align:top margin:6px 4px"
  <div>
    
-## 🛠 currently working
+## 🛠 system which work
   <div>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
  <div>
