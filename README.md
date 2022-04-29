@@ -1,10 +1,8 @@
-## Ola me chamo Frank Jhonson, Sou Desenvolvedor Web
+ Ola, Me chamo Frank Johnson Sou Desenvolvedor Web, Desenvolvedor Games, Desenvolvedor App, Desenvolvedor Bots.  Trabalho na Impresa. discord Na Area Suporte técnico Começei minha Paixao Sobre programaçao cedo aos 10anos de idade Começei a fazer ums scripts para derrubar sites Whois etc, Hoje em dia Estudo Pentester Segurança da informação. Hoje Sei 98% sobre linguagem da Programaçao. Nao sou um rei da programaçao pois Tenho que aprender mais e mais pois a tecnologia vem cresendo abesurda E temos que sempre trocar nossas pilhas e colocar novas para sim entender o conceito Da tecnologia.
 #
 
 <p align="center">  
 𝗕𝗲𝗺 𝘃𝗶𝗻𝗱𝗼 𝗮𝗼 𝗺𝗲𝘂 𝗽𝗲𝗿𝗳𝗶𝗹 ✌  
-  
-                          𝗦𝗲𝗿 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝗲́ 𝘂𝗺𝗮 𝘃𝗶𝗮𝗴𝗲𝗺 𝗼𝗻𝗱𝗲 𝗮 𝗽𝗿𝗼́𝘅𝗶𝗺𝗮 𝗽𝗮𝗿𝗮𝗱𝗮 𝗲́ 𝗮 𝘀𝗼𝗹𝘂𝗰̧𝗮̃𝗼 𝗱𝗲 𝘂𝗺 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝗮.
                                                            
   <div>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="29px"> Compiling...
