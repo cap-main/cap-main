@@ -5,10 +5,10 @@ Hi, my name is Frank Johnson I'm a Web Developer, Games Developer, App Developer
 𝗕𝗲𝗺 𝘃𝗶𝗻𝗱𝗼 𝗮𝗼 𝗺𝗲𝘂 𝗽𝗲𝗿𝗳𝗶𝗹 ✌  
                                                            
   <div>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="29px"> Compiling...
+  <img src="https://cdn.discordapp.com/emojis/968831638404493322.gif?size=48&quality=lossless" width="29px"> Compiling...
   <div>
    
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+  <img src="https://cdn.discordapp.com/emojis/850081111241785425.gif?size=48&quality=lossless" width="29px">
 <p align="center">  
 <p align="center">  
 
