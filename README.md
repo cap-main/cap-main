@@ -1,4 +1,4 @@
-## Ola me chamo Frank Jhonson, Sou criador De Games, Sites, apps, Bots Discord.
+## Ola me chamo Frank Jhonson, Sou Desenvolvedor Web
 #
 
 <p align="center">  
